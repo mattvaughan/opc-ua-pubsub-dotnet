@@ -1,0 +1,17 @@
+{
+  "docker": {
+    "enabled": false
+  },
+  "nuget": {
+    "enabled": true,
+    "registryUrls": [
+      "https://api.nuget.org/v3/index.json"
+    ]
+  },
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "includeForks": true,
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
+}
+
