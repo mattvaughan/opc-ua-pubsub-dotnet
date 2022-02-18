@@ -86,9 +86,9 @@
       },
       "MQTTnet": {
         "type": "Direct",
-        "requested": "[3.0.16, )",
-        "resolved": "3.0.16",
-        "contentHash": "xzqmKwVjTpT/X5zoLuhBCHmYVSRAlxeXqExvHLqfbt5OfTHfrD/q62IteJbOtlNG/SepeRpm76dYUZSU5o8y1A=="
+        "requested": "[3.1.2, )",
+        "resolved": "3.1.2",
+        "contentHash": "074AmNXQSs6S3vKyWqYIVvVCeyydCYhOLqfTfRXTaOihQTLAeKRnZh8c3Xhsvct4Rn+tCORFpUdLE35lH4c5Aw=="
       },
       "Newtonsoft.Json": {
         "type": "Direct",

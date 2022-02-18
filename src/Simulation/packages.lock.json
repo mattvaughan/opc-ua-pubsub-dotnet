@@ -225,8 +225,8 @@
       },
       "MQTTnet": {
         "type": "Transitive",
-        "resolved": "3.0.16",
-        "contentHash": "xzqmKwVjTpT/X5zoLuhBCHmYVSRAlxeXqExvHLqfbt5OfTHfrD/q62IteJbOtlNG/SepeRpm76dYUZSU5o8y1A=="
+        "resolved": "3.1.2",
+        "contentHash": "074AmNXQSs6S3vKyWqYIVvVCeyydCYhOLqfTfRXTaOihQTLAeKRnZh8c3Xhsvct4Rn+tCORFpUdLE35lH4c5Aw=="
       },
       "NETStandard.Library": {
         "type": "Transitive",
@@ -1184,7 +1184,7 @@
       "opc.ua.pubsub.dotnet.client": {
         "type": "Project",
         "dependencies": {
-          "MQTTnet": "3.0.16",
+          "MQTTnet": "3.1.2",
           "Microsoft.Extensions.Configuration.Binder": "5.0.0",
           "Microsoft.Extensions.Configuration.CommandLine": "5.0.0",
           "Microsoft.Extensions.Configuration.Json": "5.0.0",
