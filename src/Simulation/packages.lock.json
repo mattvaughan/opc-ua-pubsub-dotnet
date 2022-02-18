@@ -22,9 +22,9 @@
       },
       "log4net": {
         "type": "Direct",
-        "requested": "[2.0.12, )",
-        "resolved": "2.0.12",
-        "contentHash": "9P67BCftJ7KG+B7rNOM1A9KczUwyEDed6zbAddy5Cj/73xVkzi+rEAHeOgUnW5wDqy1JFlY8+oTP0m1PgJ03Tg==",
+        "requested": "[2.0.14, )",
+        "resolved": "2.0.14",
+        "contentHash": "KevyXUuhOyhx7l1jWwq6ZGVlRC2Aetg0qDp6rJpfSZGcDPKQDwfOE6yEuVkVf0kEP08NQqBDn/TQ/TJv4wgyhw==",
         "dependencies": {
           "System.Configuration.ConfigurationManager": "4.5.0"
         }
@@ -1178,7 +1178,7 @@
         "type": "Project",
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
-          "log4net": "2.0.12"
+          "log4net": "2.0.14"
         }
       },
       "opc.ua.pubsub.dotnet.client": {
@@ -1192,7 +1192,7 @@
           "Microsoft.IdentityModel.Tokens": "6.13.1",
           "Newtonsoft.Json": "13.0.1",
           "System.IdentityModel.Tokens.Jwt": "6.13.1",
-          "log4net": "2.0.12",
+          "log4net": "2.0.14",
           "opc.ua.pubsub.dotnet.binary": "1.0.0"
         }
       }
